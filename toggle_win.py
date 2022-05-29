@@ -119,5 +119,4 @@ b2=Button(w,image=img1,
 b2.place(x=5,y=8)
 
 
-
 w.mainloop()
